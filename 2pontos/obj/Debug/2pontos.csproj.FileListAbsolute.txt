@@ -1,0 +1,10 @@
+C:\Users\R114\source\repos\2pontos\2pontos\bin\Debug\2pontos.exe.config
+C:\Users\R114\source\repos\2pontos\2pontos\bin\Debug\2pontos.exe
+C:\Users\R114\source\repos\2pontos\2pontos\bin\Debug\2pontos.pdb
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\2pontos.csprojAssemblyReference.cache
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\_2pontos.Form1.resources
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\_2pontos.Properties.Resources.resources
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\2pontos.csproj.GenerateResource.cache
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\2pontos.csproj.CoreCompileInputs.cache
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\2pontos.exe
+C:\Users\R114\source\repos\2pontos\2pontos\obj\Debug\2pontos.pdb
